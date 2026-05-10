@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+pillow
+rapidfuzz
+numpy
+paddleocr
+paddlepaddle
+opencv-python-headless
